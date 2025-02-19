@@ -40,7 +40,7 @@ export default function About() {
              </P>
               <a
                 href="https://www.linkedin.com/in/hiba-m-dawood/"
-                target="_blank"
+                target="_blank" 
                 rel="noopener noreferrer"
                 className="text-purple-400 hover:text-blue-500 transition-colors duration-300"
               >
