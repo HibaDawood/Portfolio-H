@@ -28,16 +28,9 @@ export default function Footer() {
                 <FaLinkedinIn />
               </span>
             </Link>
-            <Link
-              href="https://www.instagram.com/chengsong722/?igsh=YzljYTk1ODg3Zg%3D%3D#"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-pink-600 hover:text-pink-700 transition-colors"
-            >
-              <span className="text-2xl">
-                <FaInstagram />
-              </span>
-            </Link>
+            <P>
+           hibam.dawood25@gmail.com 
+            </P>
           </div>
         </div>
 
