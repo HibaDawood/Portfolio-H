@@ -36,16 +36,9 @@ export default function About() {
               Connect with me on{" "}
             </h1>
             <div className="flex space-x-6">
-              <a
-                href="https://www.instagram.com/chengsong722/?igsh=YzljYTk1ODg3Zg%3D%3D#"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-purple-400 hover:text-pink-500 transition-colors duration-300"
-              >
-                <span className="text-3xl">
-                  <FaInstagram />
-                </span>
-              </a>
+             <P>
+             hibam.dawood25@gmail.com
+             </P>
               <a
                 href="https://www.linkedin.com/in/hiba-m-dawood/"
                 target="_blank"
