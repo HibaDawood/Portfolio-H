@@ -35,9 +35,9 @@ export default function About() {
               Connect with me on{" "}
             </h1>
             <div className="flex space-x-6">
-             <P>
+             <h1>
              hibam.dawood25@gmail.com
-             </P>
+             </h1>
               <a
                 href="https://www.linkedin.com/in/hiba-m-dawood/"
                 target="_blank" 
