@@ -5,7 +5,7 @@ import { FaInstagram } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa6";
 
 export default function About() {
-  return (
+  return ( 
     <section className="min-h-screen py-20 px-4 md:px-8 lg:px-16 bg-gradient-to-br from-purple-00 from-[#190d19] to-black flex items-center relative overflow-hidden">
       <div className="max-w-6xl mx-auto relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-20 items-center">
