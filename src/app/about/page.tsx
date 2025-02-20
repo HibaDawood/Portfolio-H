@@ -4,7 +4,7 @@ import Image from "next/image";
 import { FaLinkedinIn } from "react-icons/fa6";
 
 export default function About() {
-  return ( 
+  return (
     <section className="min-h-screen py-20 px-4 md:px-8 lg:px-16 bg-gradient-to-br from-purple-00 from-[#190d19] to-black flex items-center relative overflow-hidden">
       <div className="max-w-6xl mx-auto relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-20 items-center">
@@ -35,12 +35,12 @@ export default function About() {
               Connect with me on{" "}
             </h1>
             <div className="flex space-x-6">
-             <h1>
-             hibam.dawood25@gmail.com
-             </h1>
+              <p className="text-purple-400 hover:text-pink-700 transition-colors duration-300">
+              hibam.dawood25@gmail.com
+              </p>
               <a
                 href="https://www.linkedin.com/in/hiba-m-dawood/"
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-400 hover:text-blue-500 transition-colors duration-300"
               >
