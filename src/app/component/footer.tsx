@@ -2,7 +2,7 @@
 
 import type React from "react";
 import Link from "next/link";
-import { FaLinkedinIn } from "react-icons/fa"; 
+import { FaLinkedinIn } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -28,9 +28,9 @@ export default function Footer() {
                 <FaLinkedinIn />
               </span>
             </Link>
-            <P>
-           hibam.dawood25@gmail.com 
-            </P>
+            <p>
+            hibam.dawood25@gmail.com
+            </p>
           </div>
         </div>
 
